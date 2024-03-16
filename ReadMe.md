@@ -14,4 +14,3 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
